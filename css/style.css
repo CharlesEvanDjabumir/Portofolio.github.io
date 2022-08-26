@@ -1,0 +1,25 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #c3c3c3;
+}
+
+#project {
+  padding-top: 2rem;
+  background-color: #c3c3c3;
+}
+
+.foto {
+  height: 20rem;
+}
+
+.ctk {
+  height: 5rem;
+}
+
+.card-img-top {
+  height: 50rem;
+}
+
+section {
+  padding-top: 5rem;
+}
